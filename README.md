@@ -1,3 +1,6 @@
+<p align="center">
+  <a href="https://github.com/Choyaa/SensLoc"><img src="assets/referebce1.png" width="60%"/></a>
+</p>
 ## Installation
 SensLoc
 .
@@ -37,5 +40,3 @@ SensLoc
 ├── setup.py
 └── weights
 
-
-Logo font by [Cyril Bourreau](https://www.dafont.com/back-to-the-future.font).
