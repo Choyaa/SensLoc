@@ -2,6 +2,15 @@
   <a href="https://github.com/Choyaa/SensLoc"><img src="assets/referebce1.png" width="60%"/></a>
 </p>
 ## Installation
+PixLoc is built with Python >=3.6 and PyTorch. The package `SensLoc` includes code for both training and evaluation. Installing the package locally also installs the minimal dependencies listed in `requirements.txt`:
+
+``` bash
+git clone https://github.com/Choyaa/SensLoc
+cd SensLoc/
+pip install -e .
+```
+The default structure is as follows:
+```
 SensLoc
 .
 ├── asserts
@@ -39,4 +48,5 @@ SensLoc
 │       └── matches_vis.py
 ├── setup.py
 └── weights
+```
 
