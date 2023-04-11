@@ -1,0 +1,14 @@
+torch>=1.7
+torchvision>=0.8
+numpy
+opencv-python
+tqdm
+matplotlib
+scipy
+h5py
+omegaconf
+tensorboard
+einops
+h5py
+loguru
+kornia
