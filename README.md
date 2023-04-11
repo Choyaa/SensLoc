@@ -2,6 +2,7 @@
   <a href="https://github.com/Choyaa/SensLoc"><img src="asserts/reference1.png" width="60%"/></a>
 </p>
 ## Installation
+
 SensLoc is built with Python >=3.6 and PyTorch. The package `SensLoc` includes code for both training and evaluation. Installing the package locally also installs the minimal dependencies listed in `requirements.txt`:
 
 ``` bash
